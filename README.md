@@ -146,7 +146,36 @@ Current release: `v1.4.0`
 
 ## Screenshots
 
-Product screenshots and a short interaction walkthrough will be added to this showcase repository.
+<table>
+  <tr>
+    <td align="center"><strong>Gold market</strong></td>
+    <td align="center"><strong>Gold chart</strong></td>
+    <td align="center"><strong>Economic calendar</strong></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/01-gold-market.jpeg" alt="Ayar Gold market screen" width="280"></td>
+    <td><img src="assets/screenshots/04-gold-chart.jpeg" alt="Ayar interactive Gold chart" width="280"></td>
+    <td><img src="assets/screenshots/06-calendar-upcoming.jpeg" alt="Ayar economic calendar" width="280"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>FX market</strong></td>
+    <td align="center"><strong>FX comparison</strong></td>
+    <td align="center"><strong>Sample portfolio</strong></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/09-fx-market.jpeg" alt="Ayar foreign exchange market screen" width="280"></td>
+    <td><img src="assets/screenshots/10-fx-chart-1m.jpeg" alt="Ayar USD EUR GBP comparison chart" width="280"></td>
+    <td><img src="assets/screenshots/12-sample-portfolio-real-return.jpeg" alt="Ayar sample portfolio and real return analysis" width="280"></td>
+  </tr>
+</table>
+
+### Server-side price alerts
+
+<p align="center">
+  <img src="assets/screenshots/15-price-alerts.jpeg" alt="Ayar server-side price alert form and delivery history" width="320">
+</p>
+
+The portfolio screenshot uses sample holdings created solely to demonstrate the calculation interface.
 
 ## Author
 
