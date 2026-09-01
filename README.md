@@ -149,31 +149,55 @@ Current release: `v1.4.0`
 <table>
   <tr>
     <td align="center"><strong>Gold market</strong></td>
-    <td align="center"><strong>Gold chart</strong></td>
-    <td align="center"><strong>Economic calendar</strong></td>
+    <td align="center"><strong>Gold performance</strong></td>
+    <td align="center"><strong>Market insights</strong></td>
   </tr>
   <tr>
     <td><img src="assets/screenshots/01-gold-market.jpeg" alt="Ayar Gold market screen" width="280"></td>
+    <td><img src="assets/screenshots/02-gold-market-performance.jpeg" alt="Ayar Gold market performance and spot data" width="280"></td>
+    <td><img src="assets/screenshots/03-gold-market-insights.jpeg" alt="Ayar Gold market component insights" width="280"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Gold chart</strong></td>
+    <td align="center"><strong>Chart highlights</strong></td>
+    <td align="center"><strong>Upcoming calendar</strong></td>
+  </tr>
+  <tr>
     <td><img src="assets/screenshots/04-gold-chart.jpeg" alt="Ayar interactive Gold chart" width="280"></td>
+    <td><img src="assets/screenshots/05-gold-chart-highlights.jpeg" alt="Ayar highlighted Gold market movements" width="280"></td>
     <td><img src="assets/screenshots/06-calendar-upcoming.jpeg" alt="Ayar economic calendar" width="280"></td>
   </tr>
   <tr>
+    <td align="center"><strong>Calendar history</strong></td>
+    <td align="center"><strong>Empty portfolio</strong></td>
     <td align="center"><strong>FX market</strong></td>
-    <td align="center"><strong>FX comparison</strong></td>
-    <td align="center"><strong>Sample portfolio</strong></td>
   </tr>
   <tr>
+    <td><img src="assets/screenshots/07-calendar-history.jpeg" alt="Ayar historical economic events" width="280"></td>
+    <td><img src="assets/screenshots/08-portfolio-empty.jpeg" alt="Ayar empty portfolio state" width="280"></td>
     <td><img src="assets/screenshots/09-fx-market.jpeg" alt="Ayar foreign exchange market screen" width="280"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>FX comparison · 1M</strong></td>
+    <td align="center"><strong>Portfolio entry</strong></td>
+    <td align="center"><strong>Portfolio return</strong></td>
+  </tr>
+  <tr>
     <td><img src="assets/screenshots/10-fx-chart-1m.jpeg" alt="Ayar USD EUR GBP comparison chart" width="280"></td>
+    <td><img src="assets/screenshots/11-sample-portfolio-entry.jpeg" alt="Ayar sample portfolio entry dated September 2025" width="280"></td>
     <td><img src="assets/screenshots/12-sample-portfolio-real-return.jpeg" alt="Ayar sample portfolio and real return analysis" width="280"></td>
   </tr>
+  <tr>
+    <td align="center"><strong>Real-return methodology</strong></td>
+    <td align="center"><strong>Portfolio scenario</strong></td>
+    <td align="center"><strong>Price alerts</strong></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/13-real-return-methodology.jpeg" alt="Ayar inflation-adjusted return methodology" width="280"></td>
+    <td><img src="assets/screenshots/14-sample-portfolio-scenario.jpeg" alt="Ayar portfolio scenario calculator" width="280"></td>
+    <td><img src="assets/screenshots/15-price-alerts.jpeg" alt="Ayar server-side price alert form and delivery history" width="280"></td>
+  </tr>
 </table>
-
-### Server-side price alerts
-
-<p align="center">
-  <img src="assets/screenshots/15-price-alerts.jpeg" alt="Ayar server-side price alert form and delivery history" width="320">
-</p>
 
 The portfolio screenshot uses sample holdings created solely to demonstrate the calculation interface.
 
